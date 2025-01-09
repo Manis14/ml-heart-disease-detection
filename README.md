@@ -1,5 +1,5 @@
 # Heart Disease Detection Web Application
-
+Link: https://ml-heart-disease-detection-jy6qxybe2r86q3j2njlrpb.streamlit.app/ 
 ## Project Description
 
 This project is a machine learning-based web application for detecting heart disease using various health-related features such as age, blood pressure, cholesterol, exercise-induced angina, and more. The model is built using **Logistic Regression**, and the web interface is built using **Streamlit**.
@@ -52,4 +52,7 @@ pip install -r requirements.txt
 - Slope of the peak exercise ST segment
 - Number of vessels (0-4)
 - Thalassemia type
+
+
+![image](https://github.com/user-attachments/assets/936ed4b0-6340-4f37-9a84-d049b73dd3ef)
 
