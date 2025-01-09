@@ -54,5 +54,6 @@ pip install -r requirements.txt
 - Thalassemia type
 
 
+## Look of Frontend
 ![image](https://github.com/user-attachments/assets/936ed4b0-6340-4f37-9a84-d049b73dd3ef)
 
