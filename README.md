@@ -39,17 +39,17 @@ To install the required dependencies, use the following command:
 pip install -r requirements.txt
 ```
 ## Example of the Input Form
--Age of patient
--Gender
--Chest pain type
--Resting blood pressure
--Cholesterol level
--Fasting blood sugar
--Electrocardiographic results
--Maximum heart rate
--Exercise-induced angina
--ST depression
--Slope of the peak exercise ST segment
--Number of vessels (0-4)
--Thalassemia type
+- Age of patient
+- Gender
+- Chest pain type
+- Resting blood pressure
+- Cholesterol level
+- Fasting blood sugar
+- Electrocardiographic results
+- Maximum heart rate
+- Exercise-induced angina
+- ST depression
+- Slope of the peak exercise ST segment
+- Number of vessels (0-4)
+- Thalassemia type
 
